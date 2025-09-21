@@ -1,0 +1,14 @@
+# Python/Backend specific
+/backend/venv/
+/backend/__pycache__/
+/backend/.env
+
+# Node/Frontend specific
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+/frontend/.env.local
+
+# OS and editor specific
+.DS_Store
+.vscode/
